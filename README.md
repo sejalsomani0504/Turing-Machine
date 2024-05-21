@@ -7,4 +7,4 @@ State transitions
 Tape manipulation and head movement
 Customizable configurations for various Turing Machine examples
 Usage
-To use the Turing Machine simulation, simply run the provided Java code. The main class TuringMain contains examples and setup config
+To use the Turing Machine simulation, simply run the provided Java code. The main class TuringMain contains examples and setup configurations.
